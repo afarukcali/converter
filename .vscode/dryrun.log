@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/afarukcali/Desktop/projects/converter'
+make: Leaving directory `/Users/afarukcali/Desktop/projects/converter'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
