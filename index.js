@@ -1,3 +1,3 @@
-const addon = require("./build/Release/hex-resolver").Resolver;
+const sha256context = require("./build/Release/hex-resolver").Resolver;
 
-console.log(addon("aabbcc"));
+module.exports = sha256context;
